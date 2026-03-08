@@ -1,3 +1,3 @@
 # Laboratory Work 1 - Introduction to Business Intelligence & Power BI
-## Google Slides Link: 
-https://docs.google.com/presentation/d/12oepJ69vuDJAblw_YpdfuDDdJGhtfQk4XuHZIUKZHgw/edit?usp=sharing
+## Google Drive Link: 
+https://drive.google.com/file/d/1FvpNbU-6lnUfLFH9ln9BCPzGIlqahtL3/view?usp=drive_link
