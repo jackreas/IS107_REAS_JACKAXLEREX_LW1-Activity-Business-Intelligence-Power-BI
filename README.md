@@ -1,1 +1,1 @@
-# IS107_REAS_JACKAXLEREX_LW1-Activity-Business-Intelligence-Power-BI
+# Laboratory Work 1 - Introduction to Business Intelligence & Power BI
